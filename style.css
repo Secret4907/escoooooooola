@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: linear-gradient( chartreuse 50%, yellow 40%);
+    font-size: 150%;
+}
+
+iframe{
+    border-radius:10px ;
+    text-align: center;
+    border:chartreuse;
+}
+#rodape{
+    font-size: 30px;
+}
